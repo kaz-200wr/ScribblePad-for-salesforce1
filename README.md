@@ -17,6 +17,7 @@ License
 See [license] (MIT License).
 
 **Free Software, Hell Yeah!**
+
 Also you get this app at [appExchange]
 
 [license]: https://github.com/kazu-200WR/ScribblePad-for-salesforce1/LICENSE
