@@ -5,7 +5,7 @@ ScribblePad-for-salesforce1 is a publisher action component for salesforce1 mobi
 ### Setting
   - Deploy codes under /src to your salesforce org.
   - Add a ScribblePad action to the Publisher Layout in your salesforce org via
->Setting > Customize > Chatter > Publisher Layouts
+> Setting > Customize > Chatter > Publisher Layouts
 
 
 ### Screen shots
